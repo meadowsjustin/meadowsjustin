@@ -1,6 +1,6 @@
 - 👋 Hello, I'm Justin Meadows!
-- 👀 I’m interested in all stuff computers pretty much, and want to learn more about the applicable side of them.
-- 🌱 I’m currently learning C and have messed with C#, however I'd like to learn more languages and how to apply them in useful manners.
+- 👀 I’m interested in all stuff computers pretty much, and want to learn more about the practical aspect of them.
+- 🌱 I’m currently learning Java and have messed with C and C#.
 - 📫 How to reach me:
      -Discord: Justin M#7956
 
